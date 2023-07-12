@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-Stack%20Web%20Developer;Always%20learning%20new%20things;Let's%20Work%20Toghter&font=Fira%20Code&center=true&width=440&height=45&color=37b24d&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-Stack%20Web%20Developer;Always%20learning%20new%20things;Glad%20You%20Saw%20My%20Profile;Let's%20Work%20Toghter&font=Fira%20Code&center=true&width=440&height=45&color=37b24d&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Junior MERN Stack Web Developer
