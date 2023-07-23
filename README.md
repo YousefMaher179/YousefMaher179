@@ -13,7 +13,7 @@
 - 🏢 I'm a Junior MERN Stack Web Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- 👨‍💻 Check out my portfolio at https://yousefmaher179.github.io/Ym-Portfolio/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at [My Portfolio](https://yousefmaher179.github.io/Ym-Portfolio/) to see some of the projects I've worked on.
 
 
 ### Connect with Me :
