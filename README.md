@@ -7,12 +7,12 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-Stack%20Web%20Developer;Always%20learning%20new%20things;Glad%20You%20Saw%20My%20Profile;Let's%20Work%20Toghter&font=Fira%20Code&center=true&width=440&height=45&color=37b24d&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20learning%20new%20things;Glad%20You%20Saw%20My%20Profile;Let's%20Work%20Toghter&font=Fira%20Code&center=true&width=440&height=45&color=37b24d&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Junior MERN Stack Web Developer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 🏢 I'm a Junior Frontend Developer
+- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, ReactJS, NodeJS, or anything related to web development.
 - 👨‍💻 Check out my portfolio at [My Portfolio](https://yousefmaher179.github.io/Ym-Portfolio/) to see some of the projects I've worked on.
 
 
